@@ -1,0 +1,13 @@
+G:\CS RPG\RPG!\RPG!\bin\Release\RPG!.exe.config
+G:\CS RPG\RPG!\RPG!\bin\Release\RPG!.exe
+G:\CS RPG\RPG!\RPG!\bin\Release\RPG!.pdb
+G:\CS RPG\RPG!\RPG!\bin\Release\RPG!.xml
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG_.charCreate.resources
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG_.rpg.resources
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG_.map.resources
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG_.Resources.resources
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG!.vbproj.GenerateResource.Cache
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG!.vbproj.CoreCompileInputs.cache
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG!.exe
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG!.xml
+G:\CS RPG\RPG!\RPG!\obj\Release\RPG!.pdb
